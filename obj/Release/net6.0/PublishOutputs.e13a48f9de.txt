@@ -1,0 +1,13 @@
+/home/develop8/Downloads/Ebooks/Senai/Projeto_Web-Lh_Pets_Alunos/bin/Release/net6.0/publish/Projeto_Web-Lh_Pets_Alunos
+/home/develop8/Downloads/Ebooks/Senai/Projeto_Web-Lh_Pets_Alunos/bin/Release/net6.0/publish/appsettings.Development.json
+/home/develop8/Downloads/Ebooks/Senai/Projeto_Web-Lh_Pets_Alunos/bin/Release/net6.0/publish/appsettings.json
+/home/develop8/Downloads/Ebooks/Senai/Projeto_Web-Lh_Pets_Alunos/bin/Release/net6.0/publish/Projeto_Web-Lh_Pets_Alunos.dll
+/home/develop8/Downloads/Ebooks/Senai/Projeto_Web-Lh_Pets_Alunos/bin/Release/net6.0/publish/Projeto_Web-Lh_Pets_Alunos.deps.json
+/home/develop8/Downloads/Ebooks/Senai/Projeto_Web-Lh_Pets_Alunos/bin/Release/net6.0/publish/Projeto_Web-Lh_Pets_Alunos.runtimeconfig.json
+/home/develop8/Downloads/Ebooks/Senai/Projeto_Web-Lh_Pets_Alunos/bin/Release/net6.0/publish/Projeto_Web-Lh_Pets_Alunos.pdb
+/home/develop8/Downloads/Ebooks/Senai/Projeto_Web-Lh_Pets_Alunos/bin/Release/net6.0/publish/System.Data.SqlClient.dll
+/home/develop8/Downloads/Ebooks/Senai/Projeto_Web-Lh_Pets_Alunos/bin/Release/net6.0/publish/runtimes/win-arm64/native/sni.dll
+/home/develop8/Downloads/Ebooks/Senai/Projeto_Web-Lh_Pets_Alunos/bin/Release/net6.0/publish/runtimes/win-x64/native/sni.dll
+/home/develop8/Downloads/Ebooks/Senai/Projeto_Web-Lh_Pets_Alunos/bin/Release/net6.0/publish/runtimes/win-x86/native/sni.dll
+/home/develop8/Downloads/Ebooks/Senai/Projeto_Web-Lh_Pets_Alunos/bin/Release/net6.0/publish/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/develop8/Downloads/Ebooks/Senai/Projeto_Web-Lh_Pets_Alunos/bin/Release/net6.0/publish/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
